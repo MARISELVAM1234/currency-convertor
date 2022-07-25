@@ -1,0 +1,60 @@
+.currency-convertor {
+    border: 2px solid black;
+    margin: 20px auto;
+    width: 400px;
+    height: auto;
+}
+
+.currency-convertor h1 {
+    font-size: 20px;
+    text-align: center;
+}
+
+.header-part {
+    background-color: rgb(186, 186, 186);
+}
+
+.header-part hr {
+    border-top: 2px solid black;
+}
+.display-box-amount button {
+    height: 30px;
+    margin-top: 15px;
+}
+
+.display-box-amount input {
+    width: 150px;
+    height: 30px;
+    margin: 0 0 0 120px;
+    text-align: center;
+}
+
+.from-part,
+.to-part {
+    text-align: center;
+}
+
+.from-part h1,
+.to-part h1 {
+    margin: 10px 0;
+}
+
+.from-part select,
+.to-part select {
+    height: 35px;
+    width: 150px;
+    font-size: 18px;
+}
+
+.display {
+    text-align: center;
+    padding: 0 0 80px 0;
+}
+
+.display p {
+    border: 2px solid black;
+    width: 100px;
+    height: 50px;
+    margin-top: 40px;
+    margin-left: 150px;
+}
